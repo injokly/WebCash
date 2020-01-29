@@ -14,7 +14,7 @@
 	<version>1.0.0-SNAPSHOT</version>
 	<name>gateway</name>
 	<description>gateway project for kbank open banking</description>
-
+<!-- test -->
 	<properties>
 		<maven-jar-plugin.version>3.1.1</maven-jar-plugin.version>
 		<java.version>1.8</java.version>
