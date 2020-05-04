@@ -19,6 +19,7 @@ public class CustomErrorController implements ErrorController {
  
     @Override
     public String getErrorPath() {
+	System.out.println("getErrorPath() called...");
         return ERROR_PATH;
     }
     
